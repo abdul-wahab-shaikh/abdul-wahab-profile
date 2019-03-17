@@ -2,8 +2,8 @@
 
 <body><h3>Personal info</h3> 
 <p>Name : Abdul Wahab shaikh</p>
-<p>student number: 3790834
-<p>email address : s3790834@student.rmit.edu.au
+<p>student number: 3790834</p>
+<p>email address : s3790834@student.rmit.edu.au</p>
 <p><h4>basic background, nationality and culture</p></h4>
 I was born in Sydney, Australia in 1994 which makes me 24 years of age my father is of Pakistani heritage and my mother is Fijian descent. I have one younger brother and older sister so I grew up with 2 sibling and me being the middle child. I attended dalmany public school then attended Liverpool boys high school. 
 Languages spoken 
