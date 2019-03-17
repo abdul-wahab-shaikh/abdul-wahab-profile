@@ -66,3 +66,23 @@ I choose to come to RMIT honestly because I was advised by a agent from open uni
 <p>for me personally to reach such a position for my occupation firstly I would need to get the right knowledge in the respected fields so I would need to get a degree in the IT field preferably, as I am currently undergoing which is one step closer to the desired job.</p>
 Second, I would need to get a job at a IT call canter where I can develop my customer oriented skills as well as put my IT knowledge to use and polish up the connection between the two.</p>
 <p>Thirdly I would need to work my way up the IT oriented call centre to a position where I am responsible for other employees preferably a team leader. In this position I will learn team leader skills and management skills which will help me attain the experience for the desired position.</p>
+
+<p><h5>Profile</h5><p> 
+<p>There are a number of online tests that are commonly used by employers to get specific information about potential employees. Below I have completed 3 of these online test. The first online test is the Myers-Briggs test the second online test is learning test and the third online test is creativity test.</p>
+
+<p><h5>Your Scores:</h5></p>
+<p>•	Auditory: 40%</p>
+<p>•	Visual: 30%</p>
+<p>•	Tactile: 30%</p>
+<p>i am an Auditory learner!  information below</p>
+<p>http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=8&V=6&T=6</p>
+
+picture
+http://www.testmycreativity.com/
+
+<p><h3>What do the results of these tests mean for you? </h3></p>
+<p>Well according to the personality test I am a person who will think before taking action while also maintain a observing mind state. while according to the learning test I am most likely to learn while listening and the creative test I am not so creative just coming under the average creativity level.</p>
+<p><h3>How do you think these results may influence your behaviour in a team?</h3></p>
+Taking all of these results into consideration I believe I would be an average team player, I would not come out of my comfort zone to push my self to explore something new. assessing these results I am not comfortable of knowing that according to these results I am just an average team worker. These results will push me to come out of my comfort zone and to be more creative. The positive outcome is that I am a persistent worker ready to do the task in hand with observation skills making me able to learn efficiently and faster.
+<p><h3>How should you take this into account when forming a team?</h3></p>
+<p>Whilst forming a team I would look for other team members who have a creative drive to balance the team in all the aspects from learning to creativity to productivity.<p>
