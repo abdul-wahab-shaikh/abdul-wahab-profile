@@ -67,7 +67,7 @@ I choose to come to RMIT honestly because I was advised by a agent from open uni
 Second, I would need to get a job at a IT call canter where I can develop my customer oriented skills as well as put my IT knowledge to use and polish up the connection between the two.</p>
 <p>Thirdly I would need to work my way up the IT oriented call centre to a position where I am responsible for other employees preferably a team leader. In this position I will learn team leader skills and management skills which will help me attain the experience for the desired position.</p>
 
-<p><h5>Profile</h5><p> 
+<p><h3>Profile</h3><p> 
 <p>There are a number of online tests that are commonly used by employers to get specific information about potential employees. Below I have completed 3 of these online test. The first online test is the Myers-Briggs test the second online test is learning test and the third online test is creativity test.</p>
 
 <p><h5>Your Scores:</h5></p>
@@ -86,3 +86,22 @@ http://www.testmycreativity.com/
 Taking all of these results into consideration I believe I would be an average team player, I would not come out of my comfort zone to push my self to explore something new. assessing these results I am not comfortable of knowing that according to these results I am just an average team worker. These results will push me to come out of my comfort zone and to be more creative. The positive outcome is that I am a persistent worker ready to do the task in hand with observation skills making me able to learn efficiently and faster.
 <p><h3>How should you take this into account when forming a team?</h3></p>
 <p>Whilst forming a team I would look for other team members who have a creative drive to balance the team in all the aspects from learning to creativity to productivity.<p>
+  
+  
+<h3><p> Project idea</h3></p>
+<h5><p>Overview </h5></p>
+<p>My intended project will be a communication app that can run on windows mac and android devices. The main difference in this app that set it above other communication app is that the feature which allows the user to send voice mgs to other users but the difference is that the audio msg will change from audio format to txt format. The main benefit of this app will make the messaging experience quicker and more efficient. after the text is derived from the user audio the user has a choice to edit the text or send it as how it is. Often listening to a long voice message can be time consuming and impossible under the situation. For example, if you are in a class or a meeting the audio messaging will be distracting to other workers or student or anyone. I believe that this app will change the way we communicating to people making it more efficiently and faster.</P>
+
+<h5><p>Motivation </h5></p>
+According to themanifest.com statistic regarding the most frequent downloaded mobile apps 10% of all apps downloaded are communication/messaging apps. which gives it a good market for this potential idea. This shows that the consumer/user is reliable on such apps as a mean to communicate. Resulting in the fact that if this app is faster and more efficient than the previous apps on the market then they will switch over with no issue at all. Because and the end of the day the user is looking for there benefits and with this one of a kind feature which allows user to change voice messages to text will make the user feel in control and be a app to show off to others. I believe that his app will be a self-selling app when the user see’s the ease of communicating. Not only will it have this feature but will also be a contempary messenger as well.
+
+<h5><p>Description </h5></p>
+<p>The specific details regarding this project are broken into three parts the game changer, messaging and quick access. The three the area’s that I will be discussing below will go into detail. My aim is to demonstrate the future of communication.</p>
+
+<h5><p>The game changing </h5></p>
+<p>The game changing feature in this communication app which will be available on windows, mac and android devices. What makes this app so different to others is the ability to take the users voice and create a test message using what the user said. It will give the user a ability to make quicker replies, some may argue why not just send a audio message, well if you send and receive audio message you will usually hear a lot of words that prolong the main point of the message. For example, words like uhmmm and ahh these words or sounds prolong the audio message making the receiver waste time listening to the msg. another benefit is that the text created from the audio will be shown in front of you but will not be sent unless you give the confirmation this will allow the user to edit the message and review it to see that there are no errors. this feature will also make it easier for the user to read the msg, many time we find in a situation where we cannot listen to a audio msg but could read a msg like in a meeting or in class this game changer will also make it very easy for user to send msg while driving. The app will be voice recognised for even the basics of task such as “message so on so” and “send message" these are a few of the many examples.</p>
+<h5><p>Messaging </h5></p>
+<p>The format of this app will be like most other messaging app it will have a contacts tab, messaging history tab and call log tab. But the difference is that the app can be used as a usual messaging app or be used with the voice activating feature which will let the user use the app without physically touching it. The user voice will be sufficient to for them to do the basics task compared to physically touching the device. This feature is will be very helpful especially for drivers as they cannot physically interact with any device while driving.</p>
+<h5><p>Quick access</h5></p>
+<p>The App will be very efficient and the user will have a very quick access to communicate with other users. Through he above mentioned method using the voice recognition method where the ser will be able to open the app using voice. It does not stop there the app will continue to let the user command the app to do task using voice recognition methods. This will result in a very efficient way of communicating with quick response from the app interface.</p>
+
