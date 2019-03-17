@@ -1,4 +1,4 @@
-My profile
+<h1>My profile</h1>
 
 Personal info 
 Name : Abdul Wahab shaikh
