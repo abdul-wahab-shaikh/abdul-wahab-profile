@@ -30,3 +30,40 @@ I choose to come to RMIT honestly because I was advised by a agent from open uni
 <h3><p>What do you expect to learn during your studies?</h3></p>
 
 <p>Well I expect to learn the basics of the many fields within the IT department which will give me a sound knowledge of which field I want to excel in for future studies. I expect to learn many things regarding the many fields within IT but not be an expert in any specific field. For example, when I have completed my studies, I could explain any of the subject to a layman with him thinking I am very educated within the field but while in the company of a software engineer, I would most likely have the bare minimum knowledge of software development. So yes, I will have knowledge compared to those with have not studied this field but would not have excel in a specific field.</p>
+
+<p><h3>Ideal job</h3></p>
+<p><h5>https://www.seek.com.au/job/38559935?searchrequesttoken=e9ce88af-da9d-4f95-a571-e9007303910f&type=promoted</h5></p>
+
+<h3><p>description of the position, and why it appeals to me</h3></p> 
+<h5><p>The head of IT operations </h5></p>
+<p>This position is for a person that will be responsible for the performance of all campaigns and workers within Damstra technology. As well strengthen the service and resources directed to end-user support. they will oversee a team that consist of employees, contractors and third-party service providers. He will have sound knowledge of IT and be service oriented to IT operations. The person will be coaching, resource assignment, directed queue management and incident ticket analysis.</p>
+<p>What appealed to me regarding this position is the fact that I will be leading a team of members with an IT approach. The position requires a sound knowledge in IT field which I would love someday to achieve. It has both management and IT factors within this position which make me lean towards this job position.</p>
+
+<h3><p>Description of skills required for advertised position</h3></p> 
+<h5><p>For this position the candidate will need </h5></p>
+1.	<p>5+ years in a similar role ( experienced team leader professional )</p>
+2.	<p>Knowledge of IT processes, general controls and system development life cycles.</p>
+3.	<p>ITIL foundation level certification required</p>
+4.	<p>ITIL service manager </p>
+5.	<p>Strong knowledge of Zendesk, ManageEngine, office 365, AAWS, cisco meraki, Windows and Mac environments are preferred.</p>
+6.	<p>Customer service skills (soft skills)</p>
+7.	<p>Organizing skills </p>
+8.	<p>Ability to work independently and as part of a team</p>
+
+
+<h3><p>My skills and qulification</h3></p>
+1.	<p>Sound knowledge of cs6 specifically Illustrator, Photoshop and InDesign.</p>
+2.	<p>NHT – (New hire training) handling of customers over the phone including soft skills.</p>
+3.	<p>Patient and steadfast while also maintaining composure under stressful condition.</p>
+4.	<p>Sound knowledge of technology and computer literate</p>
+5.	<p>Work readiness certificate attained at Liverpool library</p>
+6.	<p>Team player with exceptional coordination skill.</p>
+7.	<p>Hardworking and dedicated.</p>
+
+
+
+<h5><p>my plan on how you will obtain the skills, qualifications and experience required for the position.</h5></p>
+
+<p>for me personally to reach such a position for my occupation firstly I would need to get the right knowledge in the respected fields so I would need to get a degree in the IT field preferably, as I am currently undergoing which is one step closer to the desired job.</p>
+Second, I would need to get a job at a IT call canter where I can develop my customer oriented skills as well as put my IT knowledge to use and polish up the connection between the two.</p>
+<p>Thirdly I would need to work my way up the IT oriented call centre to a position where I am responsible for other employees preferably a team leader. In this position I will learn team leader skills and management skills which will help me attain the experience for the desired position.</p>
