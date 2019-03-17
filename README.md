@@ -2,6 +2,7 @@
 <h1>My profile</h1>
 
 <body><h3>Personal info</h3> 
+  <p><img src="profile.jpg" alt="profile.pers.jpg" ></P>
 <p>Name : Abdul Wahab shaikh</p>
 <p>student number: 3790834</p>
 <p>email address : s3790834@student.rmit.edu.au</p>
