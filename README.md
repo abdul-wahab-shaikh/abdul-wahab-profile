@@ -82,6 +82,7 @@ Second, I would need to get a job at a IT call canter where I can develop my cus
 <p>i am an Auditory learner!  information below</p>
 <p>http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=8&V=6&T=6</p>
 
+<p><h3>Creativity Test</h3></p>
 <img src="pic.cre.jpg" alt="pic.cre.jpg" >
 http://www.testmycreativity.com/
 
