@@ -41,14 +41,14 @@ I choose to come to RMIT honestly because I was advised by a agent from open uni
 
 <h3><p>Description of skills required for advertised position</h3></p> 
 <h5><p>For this position the candidate will need </h5></p>
-1.	<p>5+ years in a similar role ( experienced team leader professional )</p>
-2.	<p>Knowledge of IT processes, general controls and system development life cycles.</p>
-3.	<p>ITIL foundation level certification required</p>
-4.	<p>ITIL service manager </p>
-5.	<p>Strong knowledge of Zendesk, ManageEngine, office 365, AAWS, cisco meraki, Windows and Mac environments are preferred.</p>
-6.	<p>Customer service skills (soft skills)</p>
-7.	<p>Organizing skills </p>
-8.	<p>Ability to work independently and as part of a team</p>
+<p>1.	5+ years in a similar role ( experienced team leader professional )</p>
+<p>2.	Knowledge of IT processes, general controls and system development life cycles.</p>
+<p>3.	ITIL foundation level certification required</p>
+<p>4.	ITIL service manager </p>
+<p>5.	Strong knowledge of Zendesk, ManageEngine, office 365, AAWS, cisco meraki, Windows and Mac environments are preferred.</p>
+<p>6.	Customer service skills (soft skills)</p>
+<p>7.	Organizing skills </p>
+<p>8.	Ability to work independently and as part of a team</p>
 
 
 <h3><p>My skills and qulification</h3></p>
