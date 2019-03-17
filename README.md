@@ -1,3 +1,4 @@
+<html>
 <h1>My profile</h1>
 
 <body><h3>Personal info</h3> 
@@ -105,3 +106,4 @@ According to themanifest.com statistic regarding the most frequent downloaded mo
 <h5><p>Quick access</h5></p>
 <p>The App will be very efficient and the user will have a very quick access to communicate with other users. Through he above mentioned method using the voice recognition method where the ser will be able to open the app using voice. It does not stop there the app will continue to let the user command the app to do task using voice recognition methods. This will result in a very efficient way of communicating with quick response from the app interface.</p>
 
+</html>
