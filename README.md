@@ -71,6 +71,10 @@ Second, I would need to get a job at a IT call canter where I can develop my cus
 <p><h3>Profile</h3><p> 
 <p>There are a number of online tests that are commonly used by employers to get specific information about potential employees. Below I have completed 3 of these online test. The first online test is the Myers-Briggs test the second online test is learning test and the third online test is creativity test.</p>
 
+<p><h3>personality Test</h3></p>
+<p><img src="pic.pers.jpg" alt="pic.pers.jpg" ></P>
+
+<p><h3>learning Test</h3></p>
 <p><h5>Your Scores:</h5></p>
 <p>•	Auditory: 40%</p>
 <p>•	Visual: 30%</p>
