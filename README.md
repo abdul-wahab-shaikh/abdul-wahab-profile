@@ -1,6 +1,6 @@
 <h1>My profile</h1>
 
-<h3>Personal info</h3> 
+<body><h3>Personal info</h3> 
 <p>Name : Abdul Wahab shaikh</p>
 student number: 3790834
 email address : s3790834@student.rmit.edu.au
@@ -12,4 +12,4 @@ Languages spoken
 Interest and hobbies and favorite pastime 
 My interest includes working out at the gym going for long drives and learning something new regarding anything beneficial. love watching horror films as well as documentaries. my weakness is a good cooked meal and a interesting movie.my favorite past time is cruising in a luxury car far from the city enjoying the natural scenes.
 pet favorite 
-Well personally I am a cat person and my favorite pet was a cat which I had in my teenage years named Momo. She was my companion she was always waiting for me when I came back from school. She disappeared on my final year of high school I was so devasted. 
+Well personally I am a cat person and my favorite pet was a cat which I had in my teenage years named Momo. She was my companion she was always waiting for me when I came back from school. She disappeared on my final year of high school I was so devasted. </body>
