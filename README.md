@@ -52,7 +52,7 @@ I choose to come to RMIT honestly because I was advised by a agent from open uni
 
 
 <h3><p>My skills and qulification</h3></p>
-1.	<p>Sound knowledge of cs6 specifically Illustrator, Photoshop and InDesign.</p>
+1.	<br>Sound knowledge of cs6 specifically Illustrator, Photoshop and InDesign.</br>
 2.	<p>NHT – (New hire training) handling of customers over the phone including soft skills.</p>
 3.	<p>Patient and steadfast while also maintaining composure under stressful condition.</p>
 4.	<p>Sound knowledge of technology and computer literate</p>
