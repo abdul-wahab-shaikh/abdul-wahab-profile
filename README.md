@@ -1,6 +1,6 @@
 <h1>My profile</h1>
 
-<h5>Personal info</h5> 
+<h3>Personal info</h3> 
 Name : Abdul Wahab shaikh
 student number: 3790834
 email address : s3790834@student.rmit.edu.au
